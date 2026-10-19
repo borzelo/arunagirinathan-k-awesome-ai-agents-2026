@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T14:11:42.748Z",
+  "generatedAt": "2026-10-19T05:44:12.102Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -71,7 +71,7 @@
     {
       "name": "Industry-Specific Agents",
       "slug": "industry-specific-agents",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Learning Resources",

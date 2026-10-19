@@ -452,6 +452,7 @@ Notes: Several of these projects already appear elsewhere in this document (agen
 ## Industry-Specific Agents
 
 Curated list of vertical agent solutions for finance, healthcare, legal, manufacturing, retail, and government.
+- [Whale Coupons](https://github.com/whalecoupons/whale-coupons-mcp) `🔬` `[JavaScript]` `[MCP Server]` - Remote MCP server that lets AI assistants look up coupon codes issued directly by 2,500+ independent online stores. No API key or sign-in required.
 
 ### Finance
 
