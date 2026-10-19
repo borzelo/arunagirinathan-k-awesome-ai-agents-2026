@@ -452,6 +452,7 @@ Notes: Several of these projects already appear elsewhere in this document (agen
 ## Industry-Specific Agents
 
 Curated list of vertical agent solutions for finance, healthcare, legal, manufacturing, retail, and government.
+- [GhOsT](https://github.com/xx10gboyxx-source/ghost-virtuals-agent) `🔬` `[JavaScript]` `[Agent]` - Provides evidence-linked market, wallet, token, contract and web research through Virtuals Agent Commerce Protocol, with customer trading disabled.
 
 ### Finance
 
